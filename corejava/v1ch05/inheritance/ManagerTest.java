@@ -2,8 +2,8 @@ package inheritance;
 
 /**
  * This program demonstrates inheritance.
- * @version 1.21 2004-02-21
- * @author Cay Horstmann
+ * @version 1 2018-12-21
+ * @author cay Horstmann
  */
 public class ManagerTest
 {
@@ -16,13 +16,15 @@ public class ManagerTest
       Employee[] staff = new Employee[3];
 
       // fill the staff array with Manager and Employee objects
-
+      // 
       staff[0] = boss;
-      staff[1] = new Employee("Harry Hacker", 50000, 1989, 10, 1);
+      staff[1] = new Employee("Harry Hacker", 50000, 1989, 10, 1);  
       staff[2] = new Employee("Tommy Tester", 40000, 1990, 3, 15);
 
-      // print out information about all Employee objects
+      // print out the information about all the employee objects
       for (Employee e : staff)
-         System.out.println("name=" + e.getName() + ",salary=" + e.getSalary());
+         System.out.println("name=" + e.getName() + ",salary="
+            + e.getSalary());
+
    }
 }

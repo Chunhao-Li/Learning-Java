@@ -2,17 +2,16 @@ package reflection;
 
 import java.util.*;
 import java.lang.reflect.*;
-
-/**
- * This program uses reflection to print all features of a class.
- * @version 1.1 2004-02-21
- * @author Cay Horstmann
- */
-public class ReflectionTest
-{
+ /**
+  * This program uses reflection to print all features of a class
+  * @version 1 2019-01-01
+  * @author Cay Horstmann
+  */
+ public class ReflectionTest 
+ {
    public static void main(String[] args)
    {
-      // read class name from command line args or user input
+      // read class name from command line args or user input 
       String name;
       if (args.length > 0) name = args[0];
       else
@@ -28,10 +27,13 @@ public class ReflectionTest
          Class cl = Class.forName(name);
          Class supercl = cl.getSuperclass();
          String modifiers = Modifier.toString(cl.getModifiers());
+
+         // System.out.println("This is modifiers " + modifiers);
+
          if (modifiers.length() > 0) System.out.print(modifiers + " ");
          System.out.print("class " + name);
-         if (supercl != null && supercl != Object.class) System.out.print(" extends "
-               + supercl.getName());
+         if (supercl != null && supercl != Object.class) 
+            System.out.print(" extends " + supercl.getName());
 
          System.out.print("\n{\n");
          printConstructors(cl);
@@ -40,6 +42,7 @@ public class ReflectionTest
          System.out.println();
          printFields(cl);
          System.out.println("}");
+
       }
       catch (ClassNotFoundException e)
       {
@@ -60,8 +63,8 @@ public class ReflectionTest
       {
          String name = c.getName();
          System.out.print("   ");
-         String modifiers = Modifier.toString(c.getModifiers());
-         if (modifiers.length() > 0) System.out.print(modifiers + " ");         
+         String modifiers = Modifier.toString(cl.getModifiers());
+         if (modifiers.length() > 0 ) System.out.print(modifiers + " ");
          System.out.print(name + "(");
 
          // print parameter types
@@ -90,9 +93,9 @@ public class ReflectionTest
 
          System.out.print("   ");
          // print modifiers, return type and method name
-         String modifiers = Modifier.toString(m.getModifiers());
-         if (modifiers.length() > 0) System.out.print(modifiers + " ");         
-         System.out.print(retType.getName() + " " + name + "(");
+         String modifiers = Modifier.toString(cl.getModifiers());
+         if (modifiers.length() > 0) System.out.print(modifiers + " ");
+         System.out.print(retType.getName() + " " + name +"(");
 
          // print parameter types
          Class[] paramTypes = m.getParameterTypes();
@@ -119,8 +122,10 @@ public class ReflectionTest
          String name = f.getName();
          System.out.print("   ");
          String modifiers = Modifier.toString(f.getModifiers());
-         if (modifiers.length() > 0) System.out.print(modifiers + " ");         
+         if (modifiers.length() > 0) System.out.print(modifiers + " ");
          System.out.println(type.getName() + " " + name + ";");
       }
    }
-}
+
+
+ }

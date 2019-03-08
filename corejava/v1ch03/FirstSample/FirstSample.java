@@ -1,3 +1,4 @@
+import java.util.*;
 /**
  * This is the first sample program in Core Java Chapter 3
  * @version 1.01 1997-03-22
@@ -30,7 +31,21 @@ public class FirstSample
 //        for (int i = 10; i > 0; i--)
 //            System.out.println("Counting down ..." + i);
 //        System.out.println("Blastoff!");
-       for (double x = 0; x != 10; x += 0.1)
-           System.out.println(x);
+//       for (double x = 0; x != 10; x += 0.1)
+//           System.out.println(x);
+//       int[] a = new int[30];
+//       for (int i = 0; i < a.length; i++)
+//           a[i] = i + 1; // fills the array
+//       int[] a;
+//       int[] anonymous = {1,2,4,3,2};
+//       a = anonymous;
+//       int[] a = {1,2,3,4};
+//       int[] b = Arrays.copyOf(a, 2*a.length);
+//
+//////
+////       for (int elem : a)
+////           System.out.println(elem);
+//       System.out.println(Arrays.toString(b));
+       System.out.println(LocalDate.now());
    }
 }

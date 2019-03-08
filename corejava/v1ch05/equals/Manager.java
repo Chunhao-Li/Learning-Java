@@ -32,6 +32,7 @@ public class Manager extends Employee
    public int hashCode()
    {
       return java.util.Objects.hash(super.hashCode(), bonus);
+
    }
 
    public String toString()
@@ -39,4 +40,3 @@ public class Manager extends Employee
       return super.toString() + "[bonus=" + bonus + "]";
    }
 }
-

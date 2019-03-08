@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * This program demonstrates object construction.
- * @version 1.01 2004-02-19
+ * @version 1 2018-12-20
  * @author Cay Horstmann
  */
 public class ConstructorTest
@@ -18,8 +18,8 @@ public class ConstructorTest
 
       // print out information about all Employee objects
       for (Employee e : staff)
-         System.out.println("name=" + e.getName() + ",id=" + e.getId() + ",salary="
-               + e.getSalary());
+         System.out.println("name=" + e.getName() + ",id="
+            + e.getId() + ",salary=" + e.getSalary());
    }
 }
 
@@ -30,7 +30,7 @@ class Employee
    private int id;
    private String name = ""; // instance field initialization
    private double salary;
-  
+
    // static initialization block
    static
    {
@@ -61,9 +61,9 @@ class Employee
    // the default constructor
    public Employee()
    {
-      // name initialized to ""--see above
-      // salary not explicitly set--initialized to 0
-      // id initialized in initialization block
+      // name initialized to "" -- see above
+      // salary not explicitly set --initialized to 0
+      // id initialized in initialization block 
    }
 
    public String getName()

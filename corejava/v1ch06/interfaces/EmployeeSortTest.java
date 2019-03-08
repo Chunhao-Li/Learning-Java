@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * This program demonstrates the use of the Comparable interface.
- * @version 1.30 2004-02-27
+ * @version 1 2019-01-23
  * @author Cay Horstmann
  */
 public class EmployeeSortTest

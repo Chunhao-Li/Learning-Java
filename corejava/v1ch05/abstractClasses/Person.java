@@ -1,6 +1,6 @@
 package abstractClasses;
 
-public abstract class Person
+public abstract class Person 
 {
    public abstract String getDescription();
    private String name;

@@ -2,7 +2,7 @@ package equals;
 
 /**
  * This program demonstrates the equals method.
- * @version 1.12 2012-01-26
+ * @version 1 2018-12-27
  * @author Cay Horstmann
  */
 public class EqualsTest
@@ -22,16 +22,19 @@ public class EqualsTest
 
       System.out.println("alice1.equals(bob): " + alice1.equals(bob));
 
-      System.out.println("bob.toString(): " + bob);
-
+      System.out.println("bob.toString(): " + bob); // bob.toString(): equals.Employee[name=Bob Brandson,salary=50000.0,hireDay=1989-10-01]
+                                                // equals is the package name
       Manager carl = new Manager("Carl Cracker", 80000, 1987, 12, 15);
       Manager boss = new Manager("Carl Cracker", 80000, 1987, 12, 15);
       boss.setBonus(5000);
-      System.out.println("boss.toString(): " + boss);
+      System.out.println("boss.toStirng(): " + boss);
       System.out.println("carl.equals(boss): " + carl.equals(boss));
       System.out.println("alice1.hashCode(): " + alice1.hashCode());
-      System.out.println("alice3.hashCode(): " + alice3.hashCode());
+      System.out.println("alice2.hashCode(): " + alice2.hashCode());
       System.out.println("bob.hashCode(): " + bob.hashCode());
       System.out.println("carl.hashCode(): " + carl.hashCode());
+      System.out.println("boss.hashCode(): " + boss.hashCode());
+
+
    }
 }

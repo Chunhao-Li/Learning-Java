@@ -15,7 +15,6 @@ public class ParamTest
       System.out.println("Before: percent=" + percent);
       tripleValue(percent);
       System.out.println("After: percent=" + percent);
-
       /*
        * Test 2: Methods can change the state of object parameters
        */
@@ -29,18 +28,17 @@ public class ParamTest
        * Test 3: Methods can't attach new objects to object parameters
        */
       System.out.println("\nTesting swap:");
-      Employee a = new Employee("Alice", 70000);
+      Employee a = new Employee("Alice", 7000);
       Employee b = new Employee("Bob", 60000);
       System.out.println("Before: a=" + a.getName());
       System.out.println("Before: b=" + b.getName());
-      swap(a, b);
+      swap(a,b);
       System.out.println("After: a=" + a.getName());
       System.out.println("After: b=" + b.getName());
    }
-
    public static void tripleValue(double x) // doesn't work
    {
-      x = 3 * x;
+      x = 3*x;
       System.out.println("End of method: x=" + x);
    }
 
@@ -49,7 +47,7 @@ public class ParamTest
       x.raiseSalary(200);
       System.out.println("End of method: salary=" + x.getSalary());
    }
-
+  
    public static void swap(Employee x, Employee y)
    {
       Employee temp = x;

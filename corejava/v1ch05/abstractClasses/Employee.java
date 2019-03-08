@@ -27,6 +27,7 @@ public class Employee extends Person
    public String getDescription()
    {
       return String.format("an employee with a salary of $%.2f", salary);
+
    }
 
    public void raiseSalary(double byPercent)
