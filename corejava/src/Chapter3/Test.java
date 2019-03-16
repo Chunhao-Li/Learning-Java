@@ -69,13 +69,35 @@ public static void main(String[] args) {
 
 
 
-    double percent = 10;
-    System.out.println(percent);
-    tripleValue(percent);
-    System.out.println(percent);
+    // double percent = 10;
+    // System.out.println(percent);
+    // tripleValue(percent);
+    // System.out.println(percent);
 
 //    
+//    
+   // char[] testArray = new char[7];
+   // char start = 'A';
+   // for (int i = 0 ; i < testArray.length; i++)
+   // {
+   //      testArray[i] = start;
+   //      start++;
+   // }
+   // System.out.println(Arrays.toString(testArray));
+   // 
+   // System.out.println('A' < 'G');
+   // 
+   // Random generator = new Random();
+   // int value = generator.nextInt(5);
+   // System.out.println(value);
+   // 
+   char[] test = {'A','B', 'C'};
+   // System.out.println((char)('R' - 8));
+   test[0] = 'A' + 4;
+   for (char c : test)
+    System.out.println(c);
 }
+
 
 
 public static void tripleValue(double x)

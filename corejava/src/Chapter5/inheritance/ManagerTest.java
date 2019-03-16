@@ -7,7 +7,7 @@ public class ManagerTest
 {
     public static void main(String[] args) {
         // construct a Manager object
-        Manager boss = new Manger("Carl Cracker", 80000, 1987, 12, 15);
+        Manager boss = new Manager("Carl Cracker", 80000, 1987, 12, 15);
         boss.setBonus(5000);
 
         Employee[] staff = new Employee[3];
