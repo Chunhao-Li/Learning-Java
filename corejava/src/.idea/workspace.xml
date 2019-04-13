@@ -2,131 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2035509-2d56-4140-948f-44316fb1dd42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavafxLearning/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavafxLearning/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter3/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter3/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/arrays/CopyOfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/reflection/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/LengthComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/anonymousInnerClass/AnonymousInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/clone/CloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/clone/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/innerClass/InnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/EmployeeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/Powered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/lambda/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/timer/TimerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter7/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/DateInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/PairTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/pair2/PairTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/linkedList/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter3/SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter8/CompareString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter9/IStringbuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter9/MyStringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter9/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/ArrayListCmpLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/HeroNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/IHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/LOL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/MyHashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/ReverseHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/SortCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestLinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/lambda/HeroChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2j/medium/lambda/TestLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Untitled1-Copy1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/.ipynb_checkpoints/Untitled1-Copy1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/CalendarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Constants2.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Constants2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/ConstructorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/ConstructorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/ConstructorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/EmployeeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/EmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/FirstSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/FirstSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/FirstSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/FirstSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Hex.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Hex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Hex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/IQStars.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/IQStars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/IQStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/IQStars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/InputTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/InputTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/LotteryDrawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/LotteryOdds.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/LotteryOdds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/LotteryOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/LotteryOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Piece.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Piece.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Piece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Retirement.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Retirement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Retirement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/StaticTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Untitled1-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Untitled1-Copy1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Untitled1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Untitled1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/untitled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/untitled.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/PersonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/enums/EnumTest$Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/enums/EnumTest$Size.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/enums/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/enums/EnumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/enums/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/ManagerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/ManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6/interfaces/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6/interfaces/EmployeeSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavafxLearning/earth.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/sample/earth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/sample/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavafxLearning/Example1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+            <state relative-caret-position="272">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -561,17 +441,17 @@
       <workItem from="1555139350602" duration="32000" />
       <workItem from="1555139402406" duration="59000" />
       <workItem from="1555139480096" duration="9233000" />
-      <workItem from="1555156655226" duration="1073000" />
+      <workItem from="1555156655226" duration="1680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96553000" />
+    <option name="totallyTimeSpent" value="97160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1109" height="1027" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2783505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2783505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -580,13 +460,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11336898" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11336898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32959184" />
@@ -954,13 +834,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavafxLearning/earth.png">
+    <entry file="file://$PROJECT_DIR$/../../src/sample/earth.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavafxLearning/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        <state relative-caret-position="272">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
