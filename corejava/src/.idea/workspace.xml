@@ -2,14 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2035509-2d56-4140-948f-44316fb1dd42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/enums/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/interfaces/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavafxLearning/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavafxLearning/earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/dp/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter3/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter3/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/arrays/CopyOfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter5/reflection/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/LengthComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/anonymousInnerClass/AnonymousInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/clone/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/clone/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/innerClass/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/EmployeeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/Powered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter6/timer/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter7/FileFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/DateInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/PairTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/Chapter8/pair2/PairTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/linkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter3/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter8/CompareString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter9/IStringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter9/MyStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/basic/Chapter9/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/ArrayListCmpLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/IHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/LOL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/MyHashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/ReverseHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/SortCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/collections/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/lambda/HeroChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2j/medium/lambda/TestLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/inheritance/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/inheritance/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Untitled1-Copy1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/.ipynb_checkpoints/Untitled1-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/CalendarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Constants2.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Constants2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Constants2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/ConstructorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/ConstructorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/ConstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/FirstSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/FirstSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/FirstSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/FirstSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Hex.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Hex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Hex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/IQStars.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/IQStars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/IQStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/IQStars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/InputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/InputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/LotteryDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/LotteryOdds.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/LotteryOdds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/LotteryOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/LotteryOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Piece.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Piece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Retirement.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Retirement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Retirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/StaticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Untitled1-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Untitled1-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Untitled1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/Untitled1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/untitled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter3/untitled.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/PersonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/abstractClasses/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/abstractClasses/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/enums/EnumTest$Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/enums/EnumTest$Size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/enums/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/enums/EnumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/enums/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/ManagerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/inheritance/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter5/inheritance/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/interfaces/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava/Chapter6/interfaces/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/interfaces/EmployeeSortTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,34 +139,122 @@
     <session id="1748731301">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="CLASS" value="5" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="622" />
+          <entry key="JAVA" value="35678" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter6/interfaces/Employee.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="858">
+              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
               <folding>
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2j/medium/lambda/HeroChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2j/medium/lambda/TestLambda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavafxLearning/Example1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/scene/Group.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/scene/Parent.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/stage/Stage.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/scene/Scene.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="147" column="34" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/application/Application.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1342">
+              <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -59,9 +264,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>output</find>
+      <find>start</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>numbers</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -69,8 +284,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter6/Employee.java" />
-        <option value="$PROJECT_DIR$/src/Chapter6/interfaces/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/PairTest1.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/pair2/PairTest2.java" />
+        <option value="$PROJECT_DIR$/src/JavafxLearning/Example.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/DateInterval.java" />
+        <option value="$PROJECT_DIR$/src/Chapter8/Interval.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/LotteryDrawing.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/FirstSample.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/ConstructorTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter3/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/reflection/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/objectAnalyzer/ObjectAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/objectAnalyzer/ObjectAnalyzerTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/arrays/CopyOfTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/FileFormatException.java" />
+        <option value="$PROJECT_DIR$/src/Chapter9/linkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/linkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/how2j/TestString.java" />
+        <option value="$PROJECT_DIR$/src/how2j/basic/Chapter9/IStringbuffer.java" />
+        <option value="$PROJECT_DIR$/src/how2j/basic/Chapter9/MyStringBuffer.java" />
+        <option value="$PROJECT_DIR$/src/how2j/basic/Chapter9/TestString.java" />
+        <option value="$PROJECT_DIR$/src/how2j/basic/collections/Hero.java" />
+        <option value="$PROJECT_DIR$/src/medium/collections/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2j/collections/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/Item.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/Stack.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/Mystack.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/HeroNode.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/Node.java" />
+        <option value="$PROJECT_DIR$/src/how2j/basic/Chapter3/SortedArray.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/SortCompare.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/how2j/basic/Chapter8/CompareString.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/TestHashSet.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/dp/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/dp/Knapsack.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/ArrayListCmpLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/TestCollections.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/ReverseHashMap.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/TestLinkedHashSet.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/TestList.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/MyHashCode.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/collections/Node.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/IHashMap.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/Entry.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/TestCollection.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/TestComparator.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/lambda/HeroChecker.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/collections/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2j/medium/lambda/TestLambda.java" />
+        <option value="$PROJECT_DIR$/src/JavafxLearning/Example1.java" />
       </list>
     </option>
   </component>
@@ -80,9 +344,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
+    <option name="width" value="1109" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -91,36 +355,90 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="how2j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="how2j" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavafxLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PATH_TO_FX$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552728422129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555156636712" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="play.paths.configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/how2j/medium/collections" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter6.clone" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="how2j.basic.Chapter9" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,17 +452,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavafxLearning.Example1" />
       <module name="src" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavafxLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2j.medium.collections.MyHashMap" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="how2j.medium.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2j.medium.collections.TestCollection" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="how2j.medium.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2j.medium.collections.TestComparator" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="how2j.medium.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2j.medium.lambda.TestLambda" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="how2j.medium.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyHashMap" />
+      <item itemvalue="Application.TestCollection" />
+      <item itemvalue="Application.TestComparator" />
+      <item itemvalue="Application.TestLambda" />
+      <item itemvalue="Application.Example1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.TestLambda" />
+        <item itemvalue="Application.TestComparator" />
+        <item itemvalue="Application.TestCollection" />
+        <item itemvalue="Application.MyHashMap" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -157,36 +547,49 @@
       <option name="presentableId" value="Default" />
       <updated>1552725119299</updated>
       <workItem from="1552725120678" duration="34000" />
-      <workItem from="1552725199461" duration="3125000" />
+      <workItem from="1552725199461" duration="18887000" />
+      <workItem from="1553086390993" duration="954000" />
+      <workItem from="1553773085673" duration="2582000" />
+      <workItem from="1553864667927" duration="7000" />
+      <workItem from="1553915992241" duration="1896000" />
+      <workItem from="1554258832620" duration="320000" />
+      <workItem from="1554265028152" duration="3000" />
+      <workItem from="1554789000284" duration="4123000" />
+      <workItem from="1554859849825" duration="26148000" />
+      <workItem from="1554956865724" duration="12824000" />
+      <workItem from="1555039951843" duration="18378000" />
+      <workItem from="1555139350602" duration="32000" />
+      <workItem from="1555139402406" duration="59000" />
+      <workItem from="1555139480096" duration="9233000" />
+      <workItem from="1555156655226" duration="1073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3159000" />
+    <option name="totallyTimeSpent" value="96553000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1109" height="1027" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2783505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11336898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -196,7 +599,39 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32967034" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5189394" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30306122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32967034" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -204,31 +639,408 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/corejava/Chapter6/anonymousInnerClass/AnonymousInnerClassTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="110">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/Employee.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="475">
+          <caret line="172" column="36" selection-start-line="172" selection-start-column="28" selection-end-line="172" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter6/interfaces/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/how2j/basic/Chapter9/MyStringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="61">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/basic/Chapter9/IStringbuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/basic/Chapter9/TestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="96" column="47" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/basic/Chapter8/CompareString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/TestHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/dp/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/dp/Knapsack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="92" column="50" selection-start-line="92" selection-start-column="49" selection-end-line="92" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/ArrayListCmpLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/TestCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="8" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/ReverseHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/TestLinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/MyS.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="112" column="19" lean-forward="true" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/ReverseHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/LOL.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/SortCompare.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/TestCollection.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/TestCollections.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/TestLinkedHashSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/Hero.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/TestHashSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/collections/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/Entry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
           <folding>
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/IHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/MyHashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/Chapter6/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/TestCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="193" column="30" selection-start-line="193" selection-start-column="30" selection-end-line="193" selection-end-column="30" />
+          <folding>
+            <element signature="e#6584#6590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/TestComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/collections/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <folding>
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/lambda/HeroChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2j/medium/lambda/TestLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/scene/Group.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/scene/Parent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/stage/Stage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/scene/Scene.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="147" column="34" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PATH_TO_FX$/javafx.graphics.jar!/javafx/application/Application.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavafxLearning/earth.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavafxLearning/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
