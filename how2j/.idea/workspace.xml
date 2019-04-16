@@ -1,26 +1,731 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1309" />
-    <option name="height" value="1027" />
+  <component name="ChangeListManager">
+    <list default="true" id="97e1aa40-05cf-48f1-8b04-50083ef894c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/ChineseCodeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/CloseStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/PracticeOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/PracticeSplitFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/RemoveBOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/TestBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/TestCoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/TestOuputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/TestReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/IO/TestStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/how2j.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/how2j.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/Chapter3/SortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Chapter3/SortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/Chapter8/CompareString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Chapter8/CompareString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/Chapter9/IStringbuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Chapter9/IStringbuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/Chapter9/MyStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Chapter9/MyStringBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/Chapter9/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Chapter9/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/ArrayListCmpLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/ArrayListCmpLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/HashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/HeroNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/HeroNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/IHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/IHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/LOL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/LOL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/MyHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/MyHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/ReverseHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/ReverseHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/SortCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/SortCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/TestCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/TestCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/TestCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/TestCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/TestComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/TestComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/TestHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/TestHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/TestLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/TestLinkedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/collections/TestList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/collections/TestList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/exception/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/exception/TestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/lambda/HeroChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/lambda/HeroChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/lambda/TestAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/lambda/TestAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/lambda/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/lambda/TestLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/thread/Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/thread/Battle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/thread/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/thread/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/thread/KillThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/thread/KillThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/thread/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/thread/TestThread.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1509792556">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="31" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7547" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="how2j" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/IO/PracticeSplitFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3586">
+              <caret line="164" selection-start-line="164" selection-end-line="164" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/IO/TestReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/IO/TestCoding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/IO/ChineseCodeing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1210">
+              <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/IO/RemoveBOM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/IO/TestBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/charset/Charset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12144">
+              <caret line="602" column="26" selection-start-line="602" selection-start-column="26" selection-end-line="602" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="2642" column="18" selection-start-line="2642" selection-start-column="18" selection-end-line="2642" selection-end-column="18" />
+              <folding>
+                <element signature="e#60958#60959#0" expanded="true" />
+                <element signature="e#60995#60996#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/medium/collections/TestCollection.java" />
+        <option value="$PROJECT_DIR$/src/medium/collections/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/medium/collections/TestHashSet.java" />
+        <option value="$PROJECT_DIR$/src/medium/thread/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/TestFile.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/TestStream.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/TestOuputStream.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/PracticeOS.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/CloseStreams.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/PracticeSplitFile.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/TestReader.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/TestCoding.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/ChineseCodeing.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/RemoveBOM.java" />
+        <option value="$PROJECT_DIR$/src/medium/IO/TestBuffer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555309911760" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555398565550" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/medium/IO" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestBuffer">
+    <configuration name="ChineseCodeing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.IO.ChineseCodeing" />
+      <module name="how2j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveBOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.IO.RemoveBOM" />
+      <module name="how2j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.IO.TestBuffer" />
+      <module name="how2j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.IO.TestCoding" />
+      <module name="how2j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.IO.TestReader" />
+      <module name="how2j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestReader" />
+      <item itemvalue="Application.TestCoding" />
+      <item itemvalue="Application.ChineseCodeing" />
+      <item itemvalue="Application.RemoveBOM" />
+      <item itemvalue="Application.TestBuffer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestBuffer" />
+        <item itemvalue="Application.RemoveBOM" />
+        <item itemvalue="Application.ChineseCodeing" />
+        <item itemvalue="Application.TestCoding" />
+        <item itemvalue="Application.TestReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e1aa40-05cf-48f1-8b04-50083ef894c8" name="Default Changelist" comment="" />
+      <created>1555309881274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555309881274</updated>
+      <workItem from="1555309882542" duration="2159000" />
+      <workItem from="1555334844613" duration="18921000" />
+      <workItem from="1555396121757" duration="2329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__how2j - 2019.04.15 at 16h 34m 29s.xml">
+      <configuration name="All Features in: how2j" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23409000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8226837" weight="0.2967033" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.1773163" side_tool="true" weight="0.2893082" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31530613" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4988161" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.29795918" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011839" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49960536" weight="0.12040816" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/medium/collections/ArrayListCmpLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/how2j.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/how2j/basic/Chapter8/CompareString.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/collections/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/collections/TestCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/how2j/basic/Chapter9/MyStringBuffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/collections/TestHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/thread/Battle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/thread/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16016">
+          <caret line="784" column="29" selection-start-line="784" selection-start-column="29" selection-end-line="784" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/thread/KillThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/TestStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/PracticeOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/CloseStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/TestOuputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/PracticeSplitFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3586">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/TestReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/TestCoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/ChineseCodeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/RemoveBOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12144">
+          <caret line="602" column="26" selection-start-line="602" selection-start-column="26" selection-end-line="602" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="2642" column="18" selection-start-line="2642" selection-start-column="18" selection-end-line="2642" selection-end-column="18" />
+          <folding>
+            <element signature="e#60958#60959#0" expanded="true" />
+            <element signature="e#60995#60996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/IO/TestBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>how2j</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
